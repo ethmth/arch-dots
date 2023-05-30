@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+GenericName=File Synchronizer
+Name=MEGAsync
+Comment=Easy automated syncing between your computers and your MEGA cloud drive.
+#Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=megasync nz.mega.MEGAsync
+Exec=/usr/bin/megasync
+Icon=nz.mega.MEGAsync
+Terminal=false
+Categories=Network;System;
+StartupNotify=false
+X-GNOME-Autostart-Delay=60
+X-Flatpak-RenamedFrom=megasync.desktop;
+X-Flatpak=nz.mega.MEGAsync

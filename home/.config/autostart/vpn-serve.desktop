@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/vpn-serve
+Icon=dialog-scripts
+Name=vpn-serve
+Path=
+Type=Application
+X-KDE-AutostartScript=true
