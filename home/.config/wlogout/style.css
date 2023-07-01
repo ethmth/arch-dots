@@ -1,16 +1,19 @@
 window {
     font-family: monospace;
-    font-size: 14pt;
-    color: #cdd6f4; /* text */
+    font-size: 20pt;
     background-color: rgba(30, 30, 46, 0.5);
 }
 
 button {
+    color: #cdd6f4; /* text */
     background-repeat: no-repeat;
     background-position: center;
     background-size: 25%;
-    border: none;
-    background-color: rgba(30, 30, 46, 0);
+    /*border: none;*/
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cdcdcd;
+    background-color: rgba(30, 30, 46, 0.1);
     margin: 5px;
     transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
