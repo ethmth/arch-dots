@@ -107,7 +107,7 @@
         "format-icons": {
             "connected": "",
             "disconnected": "",
-            "none": "",
+            "none": "n",
             "error": "⚠"
         }
     }
