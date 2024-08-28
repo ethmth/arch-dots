@@ -103,7 +103,7 @@
 		// go install github.com/lack/waybar-nmvpn@latest - NOT NEEDED IF USING MY VPN SCRIPT
         "format": "{} {icon}",
         "return-type": "json",
-        "exec": "/usr/bin/vpn-listen",
+        "exec": "/usr/local/bin/vpn-listen",
         "format-icons": {
             "connected": "",
             "disconnected": "",
