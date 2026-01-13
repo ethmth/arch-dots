@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=/usr/bin/emacs --daemon
-Icon=dialog-scripts
-Name=emacs
-Path=
-Type=Application
-X-KDE-AutostartScript=true
